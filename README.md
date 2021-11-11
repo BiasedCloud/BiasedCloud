@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BiasedCloud
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascrtpt
+- 🌱 I’m currently learning javascript
